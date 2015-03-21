@@ -1,0 +1,6 @@
+c:\users\azaza\documents\visual studio 2012\Projects\SystemPrograming\SystemPrograming\bin\Debug\SystemPrograming.exe.config
+c:\users\azaza\documents\visual studio 2012\Projects\SystemPrograming\SystemPrograming\bin\Debug\SystemPrograming.exe
+c:\users\azaza\documents\visual studio 2012\Projects\SystemPrograming\SystemPrograming\bin\Debug\SystemPrograming.pdb
+c:\users\azaza\documents\visual studio 2012\Projects\SystemPrograming\SystemPrograming\obj\Debug\SystemPrograming.csprojResolveAssemblyReference.cache
+c:\users\azaza\documents\visual studio 2012\Projects\SystemPrograming\SystemPrograming\obj\Debug\SystemPrograming.exe
+c:\users\azaza\documents\visual studio 2012\Projects\SystemPrograming\SystemPrograming\obj\Debug\SystemPrograming.pdb
